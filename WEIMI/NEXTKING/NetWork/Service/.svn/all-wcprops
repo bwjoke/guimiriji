@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/17/trunk/NEXTKING/NetWork/Service
+END
+NKServiceBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/trunk/NEXTKING/NetWork/Service/NKServiceBase.m
+END
+NKAccountService.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/NEXTKING/NetWork/Service/NKAccountService.m
+END
+NKUserService.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13/trunk/NEXTKING/NetWork/Service/NKUserService.m
+END
+NKRecordService.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/NEXTKING/NetWork/Service/NKRecordService.m
+END
+NKNotificationCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/NEXTKING/NetWork/Service/NKNotificationCenter.h
+END
+NKServiceBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9/trunk/NEXTKING/NetWork/Service/NKServiceBase.h
+END
+NKNotificationCenter.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/NEXTKING/NetWork/Service/NKNotificationCenter.m
+END
+NKAccountService.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/NEXTKING/NetWork/Service/NKAccountService.h
+END
+NKRecordService.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/NEXTKING/NetWork/Service/NKRecordService.h
+END
+NKUserService.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13/trunk/NEXTKING/NetWork/Service/NKUserService.h
+END

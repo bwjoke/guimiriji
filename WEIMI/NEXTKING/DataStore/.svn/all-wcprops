@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/NEXTKING/DataStore
+END
+NKDataStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/NEXTKING/DataStore/NKDataStore.h
+END
+NKAccountManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/NEXTKING/DataStore/NKAccountManager.h
+END
+NKDataStore.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/NEXTKING/DataStore/NKDataStore.m
+END
+NKAccountManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/NEXTKING/DataStore/NKAccountManager.m
+END

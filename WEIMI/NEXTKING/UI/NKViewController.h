@@ -1,0 +1,51 @@
+//
+//  NKViewController.h
+//  NEXTKING
+//
+//  Created by King on 10/24/12.
+//  Copyright (c) 2012 ZUO.COM. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "NKSDK.h"
+#import "NKDataStore.h"
+#import "NKUI.h"
+
+#define NKPlaceHolderViewTag 60008
+
+@interface NKViewController : UIViewController{
+    
+    UIView  *placeHolderView;
+    UIView  *headBar;
+    UILabel *titleLabel;
+    
+    UIView  *contentView;
+    
+    NKProgressView *progressView;
+    
+    UIButton *nkRightButton;
+    UIButton *nkLeftButton;
+}
+
+@property (nonatomic, assign) UIView  *placeHolderView;
+@property (nonatomic, assign) UIView  *headBar;
+@property (nonatomic, assign) UILabel *titleLabel;
+
+@property (nonatomic, assign) UIView  *contentView;
+
+@property (nonatomic, assign) UIButton *nkRightButton;
+@property (nonatomic, assign) UIButton *nkLeftButton;
+
+-(IBAction)goBack:(id)sender;
+-(IBAction)rightButtonClick:(id)sender;
+-(IBAction)leftButtonClick:(id)sender;
+
+-(UIButton*)addRightButtonWithTitle:(id)title;
+-(UIButton*)addRightButtonWithFontTitle:(id)title;
+-(UIButton*)addleftButtonWithTitle:(id)title;
+-(UIButton*)addBackButton;
+-(UIButton *)addbackButtonWithImages:(id)images;
+-(UIButton*)addLeftCancelButton;
+-(UIButton*)styleButton;
+
+@end

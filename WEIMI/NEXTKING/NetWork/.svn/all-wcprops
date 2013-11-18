@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/22/trunk/NEXTKING/NetWork
+END
+NKSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/NEXTKING/NetWork/NKSDK.h
+END
+NKRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/NEXTKING/NetWork/NKRequestDelegate.h
+END
+NKSDK.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/NEXTKING/NetWork/NKSDK.m
+END
+NKRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/trunk/NEXTKING/NetWork/NKRequest.h
+END
+NKRequestDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/NEXTKING/NetWork/NKRequestDelegate.m
+END
+NKRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/NEXTKING/NetWork/NKRequest.m
+END

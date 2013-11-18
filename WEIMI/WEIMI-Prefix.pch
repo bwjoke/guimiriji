@@ -1,0 +1,25 @@
+//
+// Prefix header for all source files of the 'WEIMI' target in the 'WEIMI' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#import "ROConnect.h"
+#import <ShareSDK/ShareSDK.h>
+
+#endif
+
+#define APP_URL @"https://itunes.apple.com/cn/app/id669004156?mt=8"
+
+#define UMENG_APPKEY  @"528335e556240b501300d399"
+
+#define SCREEN_HEIGHT [[UIScreen mainScreen] bounds].size.height
+
+#define PRODUCT_ID_WEIMI @"com.xingqu.apptest"

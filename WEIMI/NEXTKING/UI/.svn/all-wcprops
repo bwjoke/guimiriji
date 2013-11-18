@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/21/trunk/NEXTKING/UI
+END
+NKNavigationController.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/NEXTKING/UI/NKNavigationController.h
+END
+NKConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/NEXTKING/UI/NKConfig.h
+END
+NKWebViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/NEXTKING/UI/NKWebViewController.xib
+END
+NKUI.xib
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/NEXTKING/UI/NKUI.xib
+END
+NKNavigationController.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/NEXTKING/UI/NKNavigationController.m
+END
+NKViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/NEXTKING/UI/NKViewController.xib
+END
+NKConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/NEXTKING/UI/NKConfig.m
+END
+NKWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/NEXTKING/UI/NKWebViewController.h
+END
+NKUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/NEXTKING/UI/NKUI.h
+END
+NKViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/20/trunk/NEXTKING/UI/NKViewController.h
+END
+NKWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/NEXTKING/UI/NKWebViewController.m
+END
+NKUI.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/5/trunk/NEXTKING/UI/NKUI.m
+END
+NKViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/trunk/NEXTKING/UI/NKViewController.m
+END
+NKTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/NEXTKING/UI/NKTableViewController.h
+END
+NKNavigator.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/NEXTKING/UI/NKNavigator.h
+END
+NKTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/NEXTKING/UI/NKTableViewController.m
+END
+NKNavigationController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/NEXTKING/UI/NKNavigationController.xib
+END
+NKNavigator.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/NEXTKING/UI/NKNavigator.m
+END

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reply_hide_normal</key>
+	<string>wm_reply_hide_normal</string>
+	<key>reply_hide_click</key>
+	<string>wm_reply_hide_click</string>
+	<key>delete_normal</key>
+	<string>wm_delete_emojo_normal</string>
+	<key>delete_click</key>
+	<string>wm_delete_emojo_click</string>
+	<key>reply_keyboard_normal</key>
+	<string>wm_keyboard_button_normal</string>
+	<key>reply_keyboard_click</key>
+	<string>wm_keyboard_button_click</string>
+	<key>reply_emojo_normal</key>
+	<string>wm_emojo_button_normal</string>
+	<key>reply_emojo_click</key>
+	<string>wm_emojo_button_click</string>
+	<key>reply_input_back</key>
+	<string>wm_reply_input_back</string>
+	<key>reply_send_normal</key>
+	<string>wm_send_normal</string>
+	<key>reply_send_click</key>
+	<string>wm_send_click</string>
+	<key>reply_send_disable</key>
+	<string>wm_send_normal</string>
+	<key>emojoback</key>
+	<string>wm_emojo_back</string>
+	<key>style_button_normal</key>
+	<string></string>
+	<key>style_button_click</key>
+	<string></string>
+</dict>
+</plist>
