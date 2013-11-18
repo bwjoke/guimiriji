@@ -561,37 +561,35 @@ NSString *const ZUOVersionProduct = @"http://www.zuo.com/system/version/weimi/ve
     NKUI *ui = [NKUI sharedNKUI];
     ui.needLogin = YES;
     ui.needStoreViewControllers = NO;
-    ui.homeClass = [WMMenWikiFristViewController class];
+    ui.homeClass = [WMMiyuViewController class];
     ui.welcomeCalss = [WMWelcomeViewController class];
     
     [ui addTabs:[NSArray arrayWithObjects:[NSArray arrayWithObjects:
-                                           [NKSegment segmentWithNormalBack:[UIImage imageNamed:@"tab_dianpin_normal"] selectedBack:[UIImage imageNamed:@"tab_dianpin_click"]],
-                                           [NKSegment segmentWithNormalBack:[UIImage imageNamed:@"tab_topic_normal"] selectedBack:[UIImage imageNamed:@"tab_topic_click"]],
                                            [NKSegment segmentWithNormalBack:[UIImage imageNamed:@"tab_miyu_normal"] selectedBack:[UIImage imageNamed:@"tab_miyu_click"]],
                                            [NKSegment segmentWithNormalBack:[UIImage imageNamed:@"tab_mojing_normal"] selectedBack:[UIImage imageNamed:@"tab_mojing_click"]],
                                            [NKSegment segmentWithNormalBack:[UIImage imageNamed:@"tab_more_normal"] selectedBack:[UIImage imageNamed:@"tab_more_click"]],
                                            
                                            nil],
-                 [NSArray arrayWithObjects:[WMMenWikiFristViewController class], [WMDiscussViewController class], [WMMiyuViewController class],[WMMojingViewController class], [WMSettingViewController class], nil],
+                 [NSArray arrayWithObjects:[WMMiyuViewController class],[WMMojingViewController class], [WMSettingViewController class], nil],
                  nil]];
     
     NKNavigationController *navi = [[[NKNavigationController alloc] initWithRootViewController:ui] autorelease];
     self.window.rootViewController = navi;
     [self.window makeKeyAndVisible];
     
-    UIButton *topicButton_t = [ui.navigator.tabs.segments objectAtIndex:1];
-    UIButton *homeButton_t = [ui.navigator.tabs.segments objectAtIndex:2];
+    //UIButton *topicButton_t = [ui.navigator.tabs.segments objectAtIndex:1];
+    UIButton *homeButton_t = [ui.navigator.tabs.segments objectAtIndex:0];
 
-    UIButton *mojingButton_t = [ui.navigator.tabs.segments objectAtIndex:3];
-    UIButton *noticeButton_t = [ui.navigator.tabs.segments objectAtIndex:4];
+    UIButton *mojingButton_t = [ui.navigator.tabs.segments objectAtIndex:1];
+    UIButton *noticeButton_t = [ui.navigator.tabs.segments objectAtIndex:2];
     
-    NKBadgeView *topicBadge = [[NKBadgeView alloc] initWithFrame:CGRectMake(50, 12, 14, 14)];
-    topicBadge.numberLabel.hidden = YES;
-    topicBadge.placeHolderImage = [[UIImage imageNamed:@"xiaohongdian"] resizeImageWithCapInsets:UIEdgeInsetsMake(5, 5, 5, 5)];
-    topicBadge.highlightedImage = [[UIImage imageNamed:@"xiaohongdian"] resizeImageWithCapInsets:UIEdgeInsetsMake(5, 5, 5, 5)];
-    [topicBadge bindValueOfModel:[WMNotificationCenter sharedNKNotificationCenter] forKeyPath:@"hasNotification"];
-    [topicButton_t addSubview:topicBadge];
-    [topicBadge release];
+//    NKBadgeView *topicBadge = [[NKBadgeView alloc] initWithFrame:CGRectMake(50, 12, 14, 14)];
+//    topicBadge.numberLabel.hidden = YES;
+//    topicBadge.placeHolderImage = [[UIImage imageNamed:@"xiaohongdian"] resizeImageWithCapInsets:UIEdgeInsetsMake(5, 5, 5, 5)];
+//    topicBadge.highlightedImage = [[UIImage imageNamed:@"xiaohongdian"] resizeImageWithCapInsets:UIEdgeInsetsMake(5, 5, 5, 5)];
+//    [topicBadge bindValueOfModel:[WMNotificationCenter sharedNKNotificationCenter] forKeyPath:@"hasNotification"];
+//    [topicButton_t addSubview:topicBadge];
+//    [topicBadge release];
     
     NKBadgeView *feedBadge = [[NKBadgeView alloc] initWithFrame:CGRectMake(50, 12, 14, 14)];
     feedBadge.numberLabel.hidden = YES;
