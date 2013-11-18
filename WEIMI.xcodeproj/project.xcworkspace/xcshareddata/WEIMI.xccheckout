@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>A31B3A52-A1F4-49BB-A4D4-F80CABF57E83</string>
+	<string>312ECB6E-477B-4792-B60E-CCBD0DF3E41A</string>
 	<key>IDESourceControlProjectName</key>
 	<string>WEIMI</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>79A9AC76-F689-4247-B863-BCD638CB0081</key>
-		<string>https://github.com/bwjoke/weimiapp.git</string>
+		<key>19F3AC24-CCBD-4747-A425-05CAF0F1DE14</key>
+		<string>https://github.com/bwjoke/guimiriji.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>WEIMI/WEIMI.xcodeproj/project.xcworkspace</string>
+	<string>WEIMI.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>79A9AC76-F689-4247-B863-BCD638CB0081</key>
-		<string>../../..</string>
+		<key>19F3AC24-CCBD-4747-A425-05CAF0F1DE14</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/bwjoke/weimiapp.git</string>
+	<string>https://github.com/bwjoke/guimiriji.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>79A9AC76-F689-4247-B863-BCD638CB0081</string>
+	<string>19F3AC24-CCBD-4747-A425-05CAF0F1DE14</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>79A9AC76-F689-4247-B863-BCD638CB0081</string>
+			<string>19F3AC24-CCBD-4747-A425-05CAF0F1DE14</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Weimi</string>
+			<string>GUIMIRIJI</string>
 		</dict>
 	</array>
 </dict>
